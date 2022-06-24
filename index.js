@@ -42,7 +42,7 @@ function thunder2() {
 setInterval(thunder2, 3000);
 //thunder sound--------------------------------------------------------------
 function thundersound(){
-  var audio = new Audio("thunder sound.mp3");
+  var audio = new Audio("thunder s ound.mp3");
   audio.play();
 }
 setInterval(thundersound, 15000);
