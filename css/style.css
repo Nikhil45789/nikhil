@@ -170,7 +170,7 @@ hr {
 }
 
 /*size condition---------------------------------------------------------------*/
-@media  (max-width:1028px) {
+@media  (max-width:620px) {
   .mountain {
     width: 350px;
   }
